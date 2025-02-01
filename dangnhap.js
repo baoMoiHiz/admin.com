@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
         document.getElementById("khuVucChinh").style.display = "block";
     } else {
         // Nếu chưa đăng nhập, chuyển về trang đăng nhập
-        window.location.href = "dangnhap.html";
+        window.location.href = "https://baomoihiz.github.io/admin.com/";
     }
 
     // Xử lý sự kiện Đăng Xuất
