@@ -14,6 +14,6 @@ document.addEventListener("DOMContentLoaded", function () {
     // Xử lý sự kiện Đăng Xuất
     document.getElementById("nutDangXuat").addEventListener("click", function () {
         localStorage.removeItem("daDangNhap"); // Xóa trạng thái đăng nhập
-        window.location.href = "dangnhap.html"; // Quay lại trang đăng nhập
+        window.location.href = "https://baomoihiz.github.io/23072004.com/"; // Quay lại trang đăng nhập
     });
 });
